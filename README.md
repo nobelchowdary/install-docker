@@ -30,7 +30,7 @@ Execute few commands to know about the docker
 ![image](https://user-images.githubusercontent.com/60057551/97771210-b86e9f80-1b60-11eb-8595-e803fb4c395b.png)
 
 Now, install an OS using and check the names of commands from hub.docker.com
-![image](https://user-images.githubusercontent.com/60057551/97771283-40ed4000-1b61-11eb-95dd-1dc81eca0a69.png)
+![image](https://user-images.githubusercontent.com/60057551/97771335-c375ff80-1b61-11eb-8a95-d0d817b3e97d.png)
 
 This is all about the installation of Docker-CE on RHEL. Happy Reading
 
